@@ -30,18 +30,7 @@ Install required libraries
     sudo pip install SpeechRecognition
     sudo pip install gTTS
 
-## Usage
-    git clone https://github.com/saadismail/Voice-Controlled-Shell
-    cd Voice-Controlled-Shell
-    python main.py OR python2.7 main.py
 
-This is how a sample coversation goes:
-
--   _You_: “hello”
--   _Assistant_:  _high beep_
--   _You_:  _speak your command_
--   _Assistant_:  _low beep_
--   _Assistant_:  _speaks the response_
 
 ### Valid commands
 Dictionary contains all the commands which can be used to communicate with the application
